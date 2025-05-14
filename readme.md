@@ -16,3 +16,6 @@ Contains Dart code related to inventory management.
 ## Folder 4: Farm ManagementManagement
 Contains Dart code for a farm-related test.  
 Requirements are provided in the image: ![RequirementRequirement](04.jpg)
+
+# Lưu ý:
+Trong này chỉ chứa các file và thư mục chứa code dart chứ không hiệu chỉnh gì tới các file hoặc folder môi trường, chỉ chứa nội dung bài làm
