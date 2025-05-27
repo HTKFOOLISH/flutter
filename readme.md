@@ -89,4 +89,4 @@ Nhật ký trồng trọt và truy xuất nguồn gốc:
     <figcaption><em>Fig 10: The active interface in Field Lot interface of the Farm app</em></figcaption>
     <br><br><br>
 </figure>
-*Try it for fun. The result that is not show a lot. You can clone it to know how it work !*
+*Try it for fun. The result that is not show a lot. You can clone it to know how it work!*
